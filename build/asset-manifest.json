@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/school-website/static/css/main.32b6fba1.css",
+    "main.js": "/school-website/static/js/main.c02e7c14.js",
+    "static/js/787.71e672d5.chunk.js": "/school-website/static/js/787.71e672d5.chunk.js",
+    "static/media/plgground.png": "/school-website/static/media/plgground.3c3d056d83ec3897fb05.png",
+    "static/media/building.png": "/school-website/static/media/building.eb2d42193d56f255234a.png",
+    "static/media/Hotpot (5).png": "/school-website/static/media/Hotpot (5).9841f8e6dbaa7415778d.png",
+    "static/media/Hotpot (7).png": "/school-website/static/media/Hotpot (7).9f342fbefca2c2bcfabf.png",
+    "static/media/Hotpot (6).png": "/school-website/static/media/Hotpot (6).2cd7261a6d6575bda13c.png",
+    "static/media/principal.png": "/school-website/static/media/principal.90a1b85ef18413373f12.png",
+    "static/media/Hotpot (1).png": "/school-website/static/media/Hotpot (1).8bd35c56d02df38b33cf.png",
+    "static/media/Hotpot (3).png": "/school-website/static/media/Hotpot (3).260d44dca094ad63a1ee.png",
+    "static/media/classroom.png": "/school-website/static/media/classroom.3ba14a097d9655ba61a5.png",
+    "static/media/Award.png": "/school-website/static/media/Award.2ee2942ba977badcabe7.png",
+    "static/media/Cmplab.png": "/school-website/static/media/Cmplab.1be8e83d16bcb7e446d2.png",
+    "static/media/smtlab.png": "/school-website/static/media/smtlab.49742ba31d43b42f4a61.png",
+    "static/media/Hotpot (2).png": "/school-website/static/media/Hotpot (2).5f06070904714ac55960.png",
+    "static/media/Growth.png": "/school-website/static/media/Growth.6652925a3ad735b1c608.png",
+    "static/media/Preschool-02.png": "/school-website/static/media/Preschool-02.f84845b62d46c2c02de3.png",
+    "static/media/watson.png": "/school-website/static/media/watson.b57bf578121703b064e2.png",
+    "static/media/logoschool.png": "/school-website/static/media/logoschool.b0419ca4153f492386f6.png",
+    "static/media/laptop-coffee-17904.png": "/school-website/static/media/laptop-coffee-17904.5e9157c9bdbe908c2626.png",
+    "index.html": "/school-website/index.html",
+    "main.32b6fba1.css.map": "/school-website/static/css/main.32b6fba1.css.map",
+    "main.c02e7c14.js.map": "/school-website/static/js/main.c02e7c14.js.map",
+    "787.71e672d5.chunk.js.map": "/school-website/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b6fba1.css",
+    "static/js/main.c02e7c14.js"
+  ]
+}
