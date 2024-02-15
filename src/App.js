@@ -28,7 +28,7 @@ function App() {
       <Route exact path='/programms/daycare' Component={Programms1} />
       <Route exact path='/programms/summercamp' Component={Summercamp} />
 
-      <Route  path='*' Component={Error} />
+      <Route  path='*' Component={Homepage} />
      
     
     </Routes>
